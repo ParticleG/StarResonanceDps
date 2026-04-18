@@ -1529,4 +1529,13 @@ UIDの確認方法：ゲーム内の画面左下に表示されるプレイヤ�
   <data name="Settings_ClassColors_Opacity" xml:space="preserve">
     <value>クラスカラーの不透明度</value>
   </data>
+  <data name="Settings_Shortcut_ToggleMinimize" xml:space="preserve">
+    <value>ウィンドウを最小化 / 復元</value>
+  </data>
+  <data name="Settings_Shortcut_ToggleMinimize_Tooltip" xml:space="preserve">
+    <value>ここをフォーカスしてショートカットキーを押してください（例：F10）。Deleteキーを押すと消去されます。</value>
+  </data>
+  <data name="Version" xml:space="preserve">
+    <value>バージョン：{0}</value>
+  </data>
 </root>

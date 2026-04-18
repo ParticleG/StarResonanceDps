@@ -1804,6 +1804,15 @@ namespace StarResonanceDpsAnalysis.WPF.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Crowd dummy.
+        /// </summary>
+        public static string Menu_Training_Dummy_Crowd {
+            get {
+                return ResourceManager.GetString("Menu_Training_Dummy_Crowd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Elite Enemy.
         /// </summary>
         public static string Menu_Training_Dummy_Elite_Enemy {
@@ -3078,6 +3087,24 @@ namespace StarResonanceDpsAnalysis.WPF.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Minimize / Restore Window.
+        /// </summary>
+        public static string Settings_Shortcut_ToggleMinimize {
+            get {
+                return ResourceManager.GetString("Settings_Shortcut_ToggleMinimize", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Focus here and press a shortcut key (e.g., F10). Press Delete to clear..
+        /// </summary>
+        public static string Settings_Shortcut_ToggleMinimize_Tooltip {
+            get {
+                return ResourceManager.GetString("Settings_Shortcut_ToggleMinimize_Tooltip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Always on Top.
         /// </summary>
         public static string Settings_Shortcut_TopMost {
@@ -4130,6 +4157,15 @@ namespace StarResonanceDpsAnalysis.WPF.Properties {
         public static string Update_NoUpdate_Title {
             get {
                 return ResourceManager.GetString("Update_NoUpdate_Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Version:{0}.
+        /// </summary>
+        public static string Version {
+            get {
+                return ResourceManager.GetString("Version", resourceCulture);
             }
         }
         
